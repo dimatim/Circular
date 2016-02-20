@@ -1,8 +1,9 @@
 # Circular
-Indeterminate circular loading indicators
+Simple way of creating indeterminate circular loading indicators; all you need is a canvas. Uses jQuery.<br>
+Check out the <a href="https://youtu.be/rdgqdj_l2aQ">demo</a>
 
 
-#Example
+#Usage
 ```js
 var config = {
         canvas: $('#someCanvasId'),   //canvas element
@@ -25,3 +26,5 @@ var config = {
     ...
     stopSpinner('someCanvasId');      //stops the animation for the specified canvasId
 ```
+#Dependencies
+jQuery
