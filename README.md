@@ -14,6 +14,7 @@ var config = {
             {color: '#666699', offset: 3 * Math.PI / 4},
             {color: '#003366', offset: Math.PI}
         ],
+        duration: 2000,               //animation cycle duration in miliseconds
         reverse: false,               //reverse direction; by default is clockwise
         repeat: 3,                    //repeats the defined colors N times
         spacing: 6,                   //spacing between circles in pixels
