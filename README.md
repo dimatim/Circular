@@ -1,6 +1,6 @@
 # Circular
 Simple way of creating indeterminate circular loading indicators; all you need is a canvas. Uses jQuery.<br>
-Check out the <a href="https://youtu.be/rdgqdj_l2aQ">demo</a>
+Check out the <a href="http://dimatim.github.io/#showcase">demo</a>
 
 
 #Usage
